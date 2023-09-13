@@ -8,6 +8,7 @@ public class ProductSupplierCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ProductSupplierCrudApplication.class, args);
+		System.out.println("Test");
 	}
 
 }
